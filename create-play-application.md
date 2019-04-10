@@ -1,8 +1,8 @@
-1.  To Create a play application  using giter8 template
+1. To Create a play application  using giter8 template
 
-     https://www.playframework.com/documentation/2.6.x/NewApplication
+   [https://www.playframework.com/documentation/2.6.x/NewApplication](https://www.playframework.com/documentation/2.6.x/NewApplication)
 
-     sbt new playframework/play-scala-seed.g8
+   sbt new playframework/play-scala-seed.g8
 
 
 
